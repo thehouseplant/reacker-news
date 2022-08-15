@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/thehouseplant/reacker-news/issues"
   },
-  "homepage": "https://github.com/thehouseplant/reacker-news#readme"
+  "homepage": "https://github.com/thehouseplant/reacker-news#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
